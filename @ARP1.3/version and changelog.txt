@@ -1,0 +1,141 @@
+1.3
+------------------
+[added]
+Objects are categorized in the Magazines, no Weapons.
+The mod is French.
+
+
+[added items]
+"ARP_toleondule"	n Tole ondulee
+
+1.2
+------------------
+[added]
+objects are categorized in the classname file
+ex.
+
+"ARP_book_manual"	s Book Manual
+"ARP_book_novel"	n Book Novel
+"ARP_bloodchit"		m Blood Chit
+
+book manual is "s" for suspicious
+book novel is "n" for normal
+bloodchit is "m" for military
+
+
+[added items]
+airfilter
+basketball
+cellphone
+chucks
+clutch_disk
+clutch_pressureplate
+cold air intake
+electrical tape
+fanbelt
+flywheel
+game controller
+head lamp
+knife
+knife combat
+leaftlet psyop
+leaflet wanted
+lisensplate afghan
+m16 bolt
+m16 lower receiver
+m16 upper receiver
+piston
+sleeping bag
+soldering iron
+spoon
+steeringwheel
+thermos
+valvesprings
+wirecutter
+
+[fixed]
+poppy bag image
+coke image
+chili image
+
+1.1
+------------------
+[added items]
+boots
+facepaint
+dvds
+mp3 player
+pita bread
+poppy seed bag
+potato sack
+cigarettes
+firestarter
+duct tape
+matchs
+vodka
+beer
+beef jerkey
+phone card
+weapons cleaning kit
+bungee cords
+batteries
+camcorder
+hand warmers 
+rice bag
+whistle
+hammer
+nails
+can opener
+energy drink rip it
+stethoscope
+smartphone
+dumbphone
+twinkies
+2 way radio
+psp
+bandana blue
+bandana red
+bandana green
+bandana purple
+bandana black
+ranger pace counter
+CLP
+550 cord
+domo
+gameboy
+sandwich
+acetone
+hydrochloric
+exan
+steelpipe
+toxicgas
+detcord
+garageopener
+clacker
+gold watch
+gold bar
+dirty socks black
+dirty socks green
+dirty tan boxers
+dirty tan shirt
+zippo lighter
+asus zen book
+samsung galaxy note 10
+coke
+pepsi
+mountain dew
+dr pepper
+mezzo mix
+tuna
+cigar
+soup
+spaghettios
+chilli
+pineapple slices
+suitcase
+
+[fixed] name on ammocrate, was APR now ARP 
+
+1.0
+------------------
+Initial Release
